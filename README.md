@@ -45,7 +45,7 @@ Part 4: Use the Performance Tab to measure memory usage over time
   * Warning message you can find from a lab:
                  - Forced reflow is a likely performance bottleneck
                     - A browser has to recalculate the size and location of elements on your page - called a layout. 
-                    - Fix by adjusting styles or layouts models like flexbox  
+                    - How to Fix: Change styles or layouts models like flexbox [DESIGN PATTERNS]  
                  - Long task took 
                  - Handler took
     
